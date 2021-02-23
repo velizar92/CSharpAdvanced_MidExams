@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\bin\Debug\netcoreapp3.1\Revolt.exe
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\bin\Debug\netcoreapp3.1\Revolt.deps.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\bin\Debug\netcoreapp3.1\Revolt.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\bin\Debug\netcoreapp3.1\Revolt.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\bin\Debug\netcoreapp3.1\Revolt.dll
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\bin\Debug\netcoreapp3.1\Revolt.pdb
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\obj\Debug\netcoreapp3.1\Revolt.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\obj\Debug\netcoreapp3.1\Revolt.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\obj\Debug\netcoreapp3.1\Revolt.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\obj\Debug\netcoreapp3.1\Revolt.dll
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\obj\Debug\netcoreapp3.1\Revolt.pdb
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\obj\Debug\netcoreapp3.1\Revolt.genruntimeconfig.cache
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\Revolt\obj\Debug\netcoreapp3.1\Revolt.csprojAssemblyReference.cache

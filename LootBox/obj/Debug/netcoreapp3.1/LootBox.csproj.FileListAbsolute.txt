@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\bin\Debug\netcoreapp3.1\LootBox.exe
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\bin\Debug\netcoreapp3.1\LootBox.deps.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\bin\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\bin\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\obj\Debug\netcoreapp3.1\LootBox.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\obj\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\obj\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\LootBox\obj\Debug\netcoreapp3.1\LootBox.genruntimeconfig.cache

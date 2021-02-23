@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.exe
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.deps.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.runtimeconfig.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.dll
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.pdb
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.dll
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.pdb
+C:\Users\ZAKO\source\repos\CSharpAdvancedExamPreparation\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\DownloadedFiles\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+F:\DownloadedFiles\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+F:\DownloadedFiles\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+F:\DownloadedFiles\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+F:\DownloadedFiles\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+F:\DownloadedFiles\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+F:\DownloadedFiles\Cooking\obj\Debug\netcoreapp3.1\Cooking.csprojAssemblyReference.cache
+F:\DownloadedFiles\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+F:\DownloadedFiles\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+F:\DownloadedFiles\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+F:\DownloadedFiles\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+F:\DownloadedFiles\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+F:\DownloadedFiles\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache
